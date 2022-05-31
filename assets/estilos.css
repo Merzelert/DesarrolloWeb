@@ -1,0 +1,24 @@
+body {
+    font-family: fantasy;
+}
+
+p {
+    font-size: x-large;
+    color: red;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+h1{
+    color: navy;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+progress {
+  width: 200px;
+  height: 40px;
+  accent-color: rebeccapurple;
+}
